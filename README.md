@@ -17,3 +17,14 @@ LANGKAH-LANGKAH PERULANGAN
 # STRUKTUR KONDISI LATIHAN 1
 ![gambar](lat1.jpeg)
 
+# STRUKTUR KONDISI LATIHAN 2
+![gambar](lat2.jpeg)
+
+# PERULANGAN LATIHAN 1
+![gambar](lat3.jpeg)
+
+# PERULANGAN LATIHAN 2
+![gambar](lat4.jpeg)
+
+# FLOWCHART
+![gambar](flowchart.jpeg)
