@@ -14,3 +14,6 @@ LANGKAH-LANGKAH PERULANGAN
 
 3. Kontrol Perulangan
 
+# STRUKTUR KONDISI LATIHAN 1
+![gambar](lat1.jpeg)
+
